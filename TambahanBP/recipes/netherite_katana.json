@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "sparta:netherite_katana"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "BA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:netherite_ingot",
+        "data": 0
+      },
+      "B": {
+        "item": "sparta:diamond_katana",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "sparta:netherite_katana",
+      "count": 1
+    }
+  }
+}

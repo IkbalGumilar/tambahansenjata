@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "sparta:diamond_dagger"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B",
+      "C"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:diamond",
+        "data": 0
+      },
+      "C": {
+        "item": "sparta:handle",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "sparta:diamond_dagger",
+      "count": 1
+    }
+  }
+}

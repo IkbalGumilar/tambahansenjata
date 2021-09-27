@@ -1,0 +1,183 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:item": {
+    "description": {
+      "category": "equipment",
+      "identifier": "sparta:wood_halberd"
+    },
+    "components": {
+      "minecraft:creative_category": {
+        "parent": "itemGroup.name.axe"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:use_duration": 110,
+      "minecraft:hand_equipped": true,
+      "minecraft:allow_off_hand": true,
+      "minecraft:durability": {
+        "max_durability": 110,
+        "damage_chance": {
+          "min": 5,
+          "max": 7.5
+        }
+      },
+      "minecraft:repairable": {
+        "repair_items": [
+          {
+            "items": [
+              "minecraft:planks"
+            ],
+            "repair_amount": 5
+          }
+        ]
+      },
+      "minecraft:mining_speed": 1.5,
+      "minecraft:damage": 6,
+      "minecraft:render_offsets": {
+				"main_hand": {
+					"first_person": {
+						"position": [1, -0.05, -2]
+					},
+					"third_person": {
+						"position": [0.15, 1.5, -0.50],
+						"scale": [0.05, 0.05, 0.05]
+					}
+				},
+				"off_hand": {
+					"first_person": {
+						"position": [-2, 0.5, -1]
+					},
+					"third_person": {
+						"position": [0.15, 1.5, -0.50],
+						"scale": [0.05, 0.05, 0.05]
+					}
+				}
+			},
+      "minecraft:enchantable": {
+        "value": 15,
+        "slot": "axe"
+      },
+      "minecraft:can_destroy_in_creative": false,
+      "minecraft:digger": {
+        "use_efficiency": true,
+        "destroy_speeds": [
+          {
+            "block": "minecraft:web",
+            "speed": 8
+          },
+          {
+            "block": "minecraft:log",
+            "speed": 8
+          },
+          {
+            "block": "minecraft:planks",
+            "speed": 8
+          },
+          {
+            "block": "minecraft:chest",
+            "speed": 8
+          },
+		  {
+            "block": "minecraft:door",
+            "speed": 8
+          },
+          {
+            "block": "minecraft:fence",
+            "speed": 8
+          },
+          {
+            "block": "minecraft:fence_gate",
+            "speed": 20
+          },
+		  {
+            "block": "minecraft:sigh",
+            "speed": 8
+          },
+          {
+            "block": "minecraft:trapdoor",
+            "speed": 8
+          },
+          {
+            "block": "minecraft:barrel",
+            "speed": 8
+          },
+		  {
+            "block": "minecraft:beehive",
+            "speed": 8
+          },
+          {
+            "block": "minecraft:bee_nest",
+            "speed": 8
+          },
+          {
+            "block": "minecraft:wood",
+            "speed": 8
+          },
+		  {
+            "block": "minecraft:bookshelf",
+            "speed": 8
+          },
+          {
+            "block": "minecraft:cartography_table",
+            "speed": 8
+          },
+          {
+            "block": "minecraft:lectern",
+            "speed": 8
+          },
+		  {
+            "block": "minecraft:loom",
+            "speed": 8
+          },
+          {
+            "block": "minecraft:block_melon",
+            "speed": 8
+          },
+          {
+            "block": "minecraft:pumkin",
+            "speed": 8
+          },
+          {
+            "block": "minecraft:stripped_log",
+            "speed": 8
+          },
+          {
+            "block": "minecraft:stripped_wood",
+            "speed": 8
+          },
+          {
+            "block": "minecraft:stem",
+            "speed": 8
+          },
+		  {
+            "block": "minecraft:bed",
+            "speed": 8
+          },
+          {
+            "block": "minecraft:bamboo",
+            "speed": 5
+          },
+          {
+            "block": "minecraft:crafting_table",
+            "speed": 8
+          },
+          {
+            "block": "minecraft:campfire",
+            "speed": 8
+          },
+          {
+            "block": "minecraft:soul_campfire",
+            "speed": 8
+          }
+        ]
+      },
+      "minecraft:weapon": {},
+      "tag:minecraft:is_axe": {},
+      "minecraft:icon": {
+        "texture": "wood_halberd"
+      },
+      "minecraft:display_name": {
+        "value": "item.sparta:wood_halberd.name"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "sparta:netherite_longsword"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AC"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:netherite_ingot",
+        "data": 0
+      },
+      "C": {
+        "item": "sparta:diamond_longsword",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "sparta:netherite_longsword",
+      "count": 1
+    }
+  }
+}

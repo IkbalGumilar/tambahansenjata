@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "recipes_148a9a51"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:wool",
+        "data": 0
+      }
+    ],
+    "result": {
+      "item": "minecraft:string",
+      "count": 4,
+      "data": 0
+    }
+  }
+}

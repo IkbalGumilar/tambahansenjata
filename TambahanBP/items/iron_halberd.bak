@@ -1,0 +1,87 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:item": {
+    "description": {
+      "category": "equipment",
+      "identifier": "sparta:iron_halberd"
+    },
+    "components": {
+      "minecraft:creative_category": {
+        "parent": "itemGroup.name.axe"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:use_duration": 140,
+      "minecraft:hand_equipped": true,
+      "minecraft:allow_off_hand": true,
+      "minecraft:durability": {
+        "max_durability": 140,
+        "damage_chance": {
+          "min": 14,
+          "max": 16
+        }
+      },
+      "minecraft:repairable": {
+        "repair_items": [
+          {
+            "items": [
+              "minecraft:iron_ingot"
+            ],
+            "repair_amount": 5
+          }
+        ]
+      },
+      "minecraft:mining_speed": 1.5,
+      "minecraft:damage": 14,
+      "minecraft:render_offsets": {
+				"main_hand": {
+					"first_person": {
+						"position": [1, -0.05, -2]
+					},
+					"third_person": {
+						"position": [0.15, 1.5, -0.50],
+						"scale": [0.05, 0.05, 0.05]
+					}
+				},
+				"off_hand": {
+					"first_person": {
+						"position": [-2, 0.5, -1]
+					},
+					"third_person": {
+						"position": [0.15, 1.5, -0.50],
+						"scale": [0.05, 0.05, 0.05]
+					}
+				}
+			},
+      "minecraft:enchantable": {
+        "value": 15,
+        "slot": "axe"
+      },
+      "minecraft:can_destroy_in_creative": false,
+      "minecraft:digger": {
+        "use_efficiency": true,
+        "destroy_speeds": [
+          {
+            "block": "minecraft:web",
+            "speed": 12
+          },
+          {
+            "block": "minecraft:log",
+            "speed": 10
+          },
+          {
+            "block": "minecraft:planks",
+            "speed": 10
+          }
+        ]
+      },
+      "minecraft:weapon": {},
+      "tag:minecraft:is_axe": {},
+      "minecraft:icon": {
+        "texture": "iron_halberd"
+      },
+      "minecraft:display_name": {
+        "value": "item.sparta:iron_halberd.name"
+      }
+    }
+  }
+}

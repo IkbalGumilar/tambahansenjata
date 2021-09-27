@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "Addon ini saya ambil dari mod edisi java saya ",
+    "name": "Tambahan Senjata",
+    "uuid": "2b689b8f-4f4b-46b4-a6e8-46e6e299a513",
+    "version": [
+      1,
+      8,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Addon ini saya ambil dari mod edisi java saya ",
+      "type": "data",
+      "uuid": "001bebcf-fa88-4a80-b5c8-f8aa9c03f9ed",
+      "version": [
+        1,
+        8,
+        0
+      ]
+    }
+  ]
+}

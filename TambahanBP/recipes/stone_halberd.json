@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "sparta:stone_halberd"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ACA",
+      "AC ",
+      " C "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:cobblestone",
+        "data": 0
+      },
+      "C": {
+        "item": "sparta:handle",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "sparta:stone_halberd",
+      "count": 1
+    }
+  }
+}

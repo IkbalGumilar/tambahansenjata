@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "sparta:netherite_halberd"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AC"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:netherite_ingot",
+        "data": 0
+      },
+      "C": {
+        "item": "sparta:diamond_halberd",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "sparta:netherite_halberd",
+      "count": 1
+    }
+  }
+}

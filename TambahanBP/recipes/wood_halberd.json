@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "sparta:wood_halberd"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ACA",
+      "AC ",
+      " C "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:planks",
+        "data": 0
+      },
+      "C": {
+        "item": "sparta:handle",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "sparta:wood_halberd",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,51 @@
+item.sparta:handle.name=Handle
+#Wood
+item.sparta:wood_dagger.name=Wooden Dagger
+item.sparta:wood_katana.name=Wooden Katana
+item.sparta:wood_saber.name=Wooden Saber
+item.sparta:wood_rapier.name=Wooden Rapier
+item.sparta:wood_battleaxe.name=Wooden Battle Axe
+item.sparta:wooden_club.name=Wooden Club
+item.sparta:wood_halberd.name=Wood halberd
+item.sparta:wood_longsword.name=Wood Longsword
+#Stone
+item.sparta:stone_dagger.name=Stone Dagger
+item.sparta:stone_katana.name=Stone Katana
+item.sparta:stone_saber.name=Stone Saber
+item.sparta:stone_rapier.name=Stone Rapier
+item.sparta:stone_battleaxe.name=Stone Battle Axe
+item.sparta:stone_halberd.name=Stone halberd
+item.sparta:stone_longsword.name=Stone Longsword
+#Iron
+item.sparta:iron_dagger.name=Iron Dagger
+item.sparta:iron_katana.name=Iron Katana
+item.sparta:iron_saber.name=Iron Saber
+item.sparta:iron_rapier.name=Iron Rapier
+item.sparta:iron_battleaxe.name=Iron Battle Axe
+item.sparta:studded_club.name=Studded Club
+item.sparta:iron_halberd.name=Iron halberd
+item.sparta:iron_longsword.name=Iron Longsword
+#Gold
+item.sparta:gold_dagger.name=Gold Dagger
+item.sparta:gold_katana.name=Gold Katana
+item.sparta:gold_saber.name=Gold Saber
+item.sparta:gold_rapier.name=Gold Rapier
+item.sparta:gold_battleaxe.name=Gold Battle Axe
+item.sparta:gold_halberd.name=Gold halberd
+item.sparta:gold_longsword.name=Gold Longsword
+#Diamond
+item.sparta:diamond_dagger.name=Diamond Dagger
+item.sparta:diamond_katana.name=Diamond Katana
+item.sparta:diamond_saber.name=Diamond Saber
+item.sparta:diamond_rapier.name=Diamond Rapier
+item.sparta:diamond_battleaxe.name=Diamond Battle Axe
+item.sparta:diamond_halberd.name=Diamond halberd
+item.sparta:diamond_longsword.name=Diamond Longsword
+#Netherite
+item.sparta:netherite_dagger.name=Netherite Dagger
+item.sparta:netherite_katana.name=Netherite Katana
+item.sparta:netherite_saber.name=Netherite Saber
+item.sparta:netherite_rapier.name=Netherite Rapier
+item.sparta:netherite_battleaxe.name=Netherite Battle Axe
+item.sparta:netherite_halberd.name=Netherite halberd
+item.sparta:netherite_longsword.name=Netherite Longsword

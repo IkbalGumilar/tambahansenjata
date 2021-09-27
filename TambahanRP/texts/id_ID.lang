@@ -1,0 +1,51 @@
+item.sparta:handle.name=Handel
+#Kayu
+item.sparta:wood_dagger.name=Belati Kayu
+item.sparta:wood_katana.name=Katana Kayu
+item.sparta:wood_saber.name=Saber Kayu
+item.sparta:wood_rapier.name=Rapir Kayu
+item.sparta:wood_battleaxe.name=Kapak Pertempuran Kayu
+item.sparta:scythe.name=Sabit
+item.sparta:wood_halberd.name=Tombak kayu
+item.sparta:wood_longsword.name=Pedang Panjang Kayu
+#Batu
+item.sparta:stone_dagger.name=Belati Batu
+item.sparta:stone_katana.name=Katana Batu
+item.sparta:stone_saber.name=Saber Batu
+item.sparta:stone_rapier.name=Rapir Batu
+item.sparta:stone_battleaxe.name=Kapak Perang Batu
+item.sparta:stone_halberd.name=Tombak batu
+item.sparta:stone_longsword.name=Pedang Panjang Batu
+#Besi
+item.sparta:iron_dagger.name=Belati Besi
+item.sparta:iron_katana.name=Katana Besi
+item.sparta:iron_saber.name=Saber Besi
+item.sparta:iron_rapier.name=Rapir Besi
+item.sparta:iron_battleaxe.name=Kapak Perang Besi
+item.sparta:studded_club.name=Klub Studded
+item.sparta:iron_halberd.name=Tombak besi
+item.sparta:iron_longsword.name=Pedang Panjang Besi
+#Emas
+item.sparta:gold_dagger.name=Belati Emas
+item.sparta:gold_katana.name=Katana Emas
+item.sparta:gold_saber.name=Saber Emas
+item.sparta:gold_rapier.name=Rapir Emas
+item.sparta:gold_battleaxe.name=Kapak Pertempuran Emas
+item.sparta:gold_halberd.name=Tombak Emas
+item.sparta:gold_longsword.name=Pedang Panjang Emas
+#Berlian
+item.sparta:diamond_dagger.name=Belati Berlian
+item.sparta:diamond_katana.name=Katana Berlian
+item.sparta:diamond_saber.name=Saber Berlian
+item.sparta:diamond_rapier.name=Rapir Berlian
+item.sparta:diamond_battleaxe.name=Kapak Pertempuran Berlian
+item.sparta:diamond_halberd.name=Tombak berlian
+item.sparta:diamond_longsword.name=Pedang Panjang Berlian
+#Netherite
+item.sparta:netherite_dagger.name=Belati Netherite
+item.sparta:netherite_katana.name=Katana Netherite
+item.sparta:netherite_saber.name=Saber Netherite
+item.sparta:netherite_rapier.name=Rapir Netherite
+item.sparta:netherite_battleaxe.name=Kapak Perang Netherite
+item.sparta:netherite_halberd.name=Tombak Netherite
+item.sparta:netherite_longsword.name=Pedang Panjang Netherite

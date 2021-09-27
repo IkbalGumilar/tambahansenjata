@@ -1,0 +1,139 @@
+{
+  "texture_data": {
+    "wood_dagger": {
+      "textures": "textures/items/wood_dagger"
+    },
+    "wood_halberd": {
+      "textures": "textures/items/wood_halberd"
+    },
+    "wood_longsword": {
+      "textures": "textures/items/wood_longsword"
+    },
+    "scythe": {
+      "textures": "textures/items/scythe"
+    },
+    "studded_club": {
+      "textures": "textures/items/club_studded"
+    },
+     "stone_halberd": {
+      "textures": "textures/items/stone_halberd"
+    },
+    "stone_dagger": {
+      "textures": "textures/items/stone_dagger"
+    },
+    "stone_longsword": {
+      "textures": "textures/items/stone_longsword"
+    },
+     "iron_halberd": {
+      "textures": "textures/items/iron_halberd"
+    },
+    "iron_dagger": {
+      "textures": "textures/items/iron_dagger"
+    },
+    "iron_longsword": {
+      "textures": "textures/items/iron_longsword"
+    },
+    "gold_dagger": {
+      "textures": "textures/items/gold_dagger"
+    },
+     "gold_halberd": {
+      "textures": "textures/items/gold_halberd"
+    },
+    "gold_longsword": {
+      "textures": "textures/items/gold_longsword"
+    },
+     "diamond_halberd": {
+      "textures": "textures/items/diamond_halberd"
+    },
+    "diamond_dagger": {
+      "textures": "textures/items/diamond_dagger"
+    },
+    "diamond_longsword": {
+      "textures": "textures/items/diamond_longsword"
+    },
+    "netherite_dagger": {
+      "textures": "textures/items/netherite_dagger"
+    },
+     "netherite_halberd": {
+      "textures": "textures/items/netherite_halberd"
+    },
+    "netherite_longsword": {
+      "textures": "textures/items/netherite_longsword"
+    },
+    "wood_katana": {
+      "textures": "textures/items/wood_katana"
+    },
+    "stone_katana": {
+      "textures": "textures/items/stone_katana"
+    },
+    "iron_katana": {
+      "textures": "textures/items/iron_katana"
+    },
+    "gold_katana": {
+      "textures": "textures/items/gold_katana"
+    },
+    "diamond_katana": {
+      "textures": "textures/items/diamond_katana"
+    },
+    "netherite_katana": {
+      "textures": "textures/items/netherite_katana"
+    },
+    "wood_saber": {
+      "textures": "textures/items/wood_saber"
+    },
+    "stone_saber": {
+      "textures": "textures/items/stone_saber"
+    },
+    "iron_saber": {
+      "textures": "textures/items/iron_saber"
+    },
+    "gold_saber": {
+      "textures": "textures/items/gold_saber"
+    },
+    "diamond_saber": {
+      "textures": "textures/items/diamond_saber"
+    },
+    "netherite_saber": {
+      "textures": "textures/items/netherite_saber"
+    },
+    "wood_rapier": {
+      "textures": "textures/items/wood_rapier"
+    },
+    "stone_rapier": {
+      "textures": "textures/items/stone_rapier"
+    },
+    "iron_rapier": {
+      "textures": "textures/items/iron_rapier"
+    },
+    "gold_rapier": {
+      "textures": "textures/items/gold_rapier"
+    },
+    "diamond_rapier": {
+      "textures": "textures/items/diamond_rapier"
+    },
+    "netherite_rapier": {
+      "textures": "textures/items/netherite_rapier"
+    },
+    "wood_battleaxe": {
+      "textures": "textures/items/wood_battleaxe"
+    },
+    "stone_battleaxe": {
+      "textures": "textures/items/stone_battleaxe"
+    },
+    "iron_battleaxe": {
+      "textures": "textures/items/iron_battleaxe"
+    },
+    "gold_battleaxe": {
+      "textures": "textures/items/gold_battleaxe"
+    },
+    "diamond_battleaxe": {
+      "textures": "textures/items/diamond_battleaxe"
+    },
+    "netherite_battleaxe": {
+      "textures": "textures/items/netherite_battleaxe"
+    },
+    "sparta:handle": {
+      "textures": "textures/items/handle"
+    }
+  }
+}

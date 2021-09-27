@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "Addon ini saya ambil dari mod edisi java ",
+    "name": "Tambahan senjata",
+    "uuid": "1e44247f-a145-4a98-90af-d833bb09dcea",
+    "version": [
+      1,
+      8,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Addon ini saya ambil dari mod edisi java",
+      "type": "resources",
+      "uuid": "a4933053-20f2-432c-8f2e-fad95c53e027",
+      "version": [
+        1,
+        8,
+        0
+      ]
+    }
+  ]
+}

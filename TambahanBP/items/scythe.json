@@ -16,7 +16,7 @@
       "minecraft:durability": {
         "max_durability": 1000,
         "damage_chance": {
-          "min": 50,
+          "min": 54,
           "max": 80
         }
       },
@@ -31,7 +31,7 @@
         ]
       },
       "minecraft:mining_speed": 2,
-      "minecraft:damage": 50,
+      "minecraft:damage": 54,
 	  "minecraft:render_offsets": {
 				"main_hand": {
 					"first_person": {
